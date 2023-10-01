@@ -90,6 +90,11 @@ const PricingHistory = () => {
     crypto3QuarterlyData,
     crypto4QuarterlyData,
     crypto5QuarterlyData,
+    crypto1YearlyData,
+    crypto2YearlyData,
+    crypto3YearlyData,
+    crypto4YearlyData,
+    crypto5YearlyData,
   ]);
 
   const handleGranularityChange = (selectedGranularity) => {
